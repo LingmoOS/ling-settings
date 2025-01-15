@@ -13,6 +13,7 @@ ItemPage {
 
     About {
         id: about
+        signal hostNameChanged(string newHostName)
     }
 
     System.Wallpaper {
@@ -299,6 +300,7 @@ ItemPage {
                 StandardButton {
                     text: ""
                     Layout.fillWidth: true
+                    visible: about.checkForLingmoOS()
                     onClicked: {
                         about.openUpdator()
                     }
