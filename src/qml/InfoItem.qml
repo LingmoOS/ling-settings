@@ -25,9 +25,6 @@ Item {
         id: mainLayout
         anchors.fill: parent
 
-        // Label {
-        //     id: iconLable
-        // }
         // Lable {
         //     id: image
         //     Image {

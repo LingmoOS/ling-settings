@@ -191,52 +191,52 @@
         <translation>පිළිබඳව</translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="163"/>
+        <location filename="../src/qml/About/Main.qml" line="165"/>
         <source>OS Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="285"/>
+        <location filename="../src/qml/About/Main.qml" line="287"/>
         <source>CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="274"/>
+        <location filename="../src/qml/About/Main.qml" line="276"/>
         <source>Disk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="206"/>
+        <location filename="../src/qml/About/Main.qml" line="208"/>
         <source>Debian Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="207"/>
+        <location filename="../src/qml/About/Main.qml" line="209"/>
         <source>13 Trixie</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="216"/>
+        <location filename="../src/qml/About/Main.qml" line="218"/>
         <source>Linux Kernel Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="217"/>
+        <location filename="../src/qml/About/Main.qml" line="219"/>
         <source>Linux </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="226"/>
+        <location filename="../src/qml/About/Main.qml" line="228"/>
         <source>Lingmo UI Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="322"/>
+        <location filename="../src/qml/About/Main.qml" line="324"/>
         <source>System Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="338"/>
+        <location filename="../src/qml/About/Main.qml" line="340"/>
         <source>Open Source Software Statement</source>
         <translation type="unfinished"></translation>
     </message>
@@ -249,12 +249,12 @@
         <translation type="vanished">පද්ධතියේ අනුවාදය</translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="148"/>
+        <location filename="../src/qml/About/Main.qml" line="158"/>
         <source>PC Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="237"/>
+        <location filename="../src/qml/About/Main.qml" line="239"/>
         <source>System Type</source>
         <translation>පද්ධතියේ වර්ගය</translation>
     </message>
@@ -267,7 +267,7 @@
         <translation type="vanished">Processor</translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="264"/>
+        <location filename="../src/qml/About/Main.qml" line="266"/>
         <source>RAM</source>
         <translation>RAM</translation>
     </message>
@@ -712,7 +712,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/About/Main.qml" line="330"/>
+        <location filename="../src/qml/About/Main.qml" line="332"/>
         <location filename="../src/qml/User/Main.qml" line="219"/>
         <location filename="../src/qml/WLAN/Main.qml" line="99"/>
         <source>→</source>
@@ -941,17 +941,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/DateTime/Main.qml" line="56"/>
+        <location filename="../src/qml/DateTime/Main.qml" line="172"/>
         <source>Auto Sync</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/DateTime/Main.qml" line="74"/>
+        <location filename="../src/qml/DateTime/Main.qml" line="190"/>
         <source>24-Hour Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/DateTime/Main.qml" line="103"/>
+        <location filename="../src/qml/DateTime/Main.qml" line="219"/>
         <source>Time Zone</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1554,6 +1554,11 @@
     <message>
         <location filename="../src/qml/main.qml" line="30"/>
         <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qml/main.qml" line="62"/>
+        <source>Search...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

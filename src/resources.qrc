@@ -132,6 +132,8 @@
         <file>images/sidebar/all/datetime.svg</file>
         <file>images/sidebar/all/update.svg</file>
         <file>images/logo.svg</file>
+        <file>images/dark/logo.svg</file>
+        <file>images/light/logo.svg</file>
         <file>qml/Touchpad/Main.qml</file>
         <file>images/sidebar/all/touchpad.svg</file>
         <file>images/dark/logo.png</file>

@@ -30,6 +30,15 @@ ItemPage {
 
             SysItem {
                 id: sysinf
+                anchors {
+                    top: parent.top
+                    bottom: lf.top
+                    left: parent.left
+                    // horizontalCenter: parent.horizontalCenter
+                    leftMargin:80
+                    right: parent.right
+                    margins: 5 // 设置边距为20像素
+                }
 
                 Image {
                     id: logo
@@ -40,18 +49,19 @@ ItemPage {
                         right: lbt.left
                         rightMargin: sysinf.width/30
                     }
-                    width: 250
+                    width: 300
                     sourceSize: Qt.size(width, height)
-                    source: LingmoUI.Theme.darkMode ? "qrc:/images/logo-2.svg" : "qrc:/images/logo-2.svg"
+                    source: LingmoUI.Theme.darkMode ? "qrc:/images/dark/logo.svg" : "qrc:/images/light/logo.svg"
                 }
 
                 Rectangle {
                     id: lbt
+                    
                     anchors {
                         centerIn: parent
                         // verticalCenter: parent.verticalCenter                     
                     }
-                    height: sysinf.height/1.2
+                    height: 20
                     width: 2
                     color: LingmoUI.Theme.disabledTextColor
                     opacity: LingmoUI.Theme.darkMode ? 0.5 : 0.5
@@ -67,8 +77,8 @@ ItemPage {
                     }
                     // width: logo.width/1.2
                     // height: logo.width/2
-                    width: logo.width/1.2
-                    height: logo.width/2
+                    width: logo.width/1.44
+                    height: logo.width/2.4
                     color: LingmoUI.Theme.backgroundColor
                     border.width: 5
                     border.color: LingmoUI.Theme.textColor

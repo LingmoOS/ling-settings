@@ -1,3 +1,10 @@
+lingmo-settings (3.0.0~rc6) helium; urgency=high
+
+  [lingmo]
+  * Add Time Display Control
+
+ -- Lingmo OS Team <team@lingmo.org>  Wed, 15 Jan 2025 22:00:00 +0800
+
 lingmo-settings (3.0.0~rc5) UNRELEASED; urgency=high
 
   [lingmo]

@@ -29,10 +29,10 @@ LingmoUI.Window {
     id: rootWindow
     title: qsTr("Settings")
     visible: true
-    width: 900
+    width: 910
     height: 610
 
-    minimumWidth: 900
+    minimumWidth: 910
     minimumHeight: 600
 
     property alias stackView: _stackView
@@ -51,7 +51,7 @@ LingmoUI.Window {
         geometry: Qt.rect(rootWindow.x, rootWindow.y, rootWindow.width, rootWindow.height)
         windowRadius: rootWindow.windowRadius
         enabled: true
-    }
+    }   
 
     RowLayout {
         anchors.fill: parent
@@ -65,6 +65,7 @@ LingmoUI.Window {
                 switchPageFromIndex(currentIndex)
             }
         }
+        
 
         StackView {
             id: _stackView
