@@ -188,7 +188,16 @@ ItemPage {
                             id: _mouseArea
                             anchors.fill: parent
                             hoverEnabled: true
-                            onClicked: appearance.setAccentColor(index)
+                            onClicked: {
+                                appearance.setAccentColor(index)
+                                if (LingmoUI.Theme.darkMode) {
+                                    appearance.switchDarkMode(false)
+                                    appearance.switchDarkMode(true)
+                                } else {
+                                    appearance.switchDarkMode(true)
+                                    appearance.switchDarkMode(false)
+                                }
+                            }
                         }
 
                         Rectangle {

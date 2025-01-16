@@ -327,69 +327,69 @@
         <translation type="unfinished">Rangi la vipengele</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="229"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="238"/>
         <source>Fonts</source>
         <translation>Fonti</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="240"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="249"/>
         <source>General Font</source>
         <translation>Fonti la kawaida</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="257"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="266"/>
         <source>Fixed Font</source>
         <translation type="unfinished">Fonti chenye isiyobadilika</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="274"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="283"/>
         <source>Font Size</source>
         <translation>Kipimo cha fonti</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="335"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="344"/>
         <source>Hinting</source>
         <translation>Kudokeza</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="348"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="357"/>
         <source>Anti-Aliasing</source>
         <translation type="unfinished">Kupamba cha maneno</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="363"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="372"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="374"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="383"/>
         <source>Desktop Icons Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="282"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="382"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="291"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="391"/>
         <location filename="../src/qml/Dock/Main.qml" line="95"/>
         <source>Small</source>
         <translation>Ndogo</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="286"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="386"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="295"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="395"/>
         <location filename="../src/qml/Dock/Main.qml" line="99"/>
         <source>Medium</source>
         <translation>Katikati</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="290"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="390"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="299"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="399"/>
         <location filename="../src/qml/Dock/Main.qml" line="103"/>
         <source>Large</source>
         <translation>Kubwa</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="294"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="394"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="303"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="403"/>
         <location filename="../src/qml/Dock/Main.qml" line="107"/>
         <source>Huge</source>
         <translation>Kubwa zaidi</translation>
@@ -1571,11 +1571,6 @@
         <location filename="../src/qml/main.qml" line="30"/>
         <source>Settings</source>
         <translation>Mipangilio</translation>
-    </message>
-    <message>
-        <location filename="../src/qml/main.qml" line="62"/>
-        <source>Search...</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

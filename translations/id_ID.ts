@@ -327,69 +327,69 @@
         <translation>Aksen warna</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="229"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="238"/>
         <source>Fonts</source>
         <translation>Huruf</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="240"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="249"/>
         <source>General Font</source>
         <translation>Font Umum</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="257"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="266"/>
         <source>Fixed Font</source>
         <translation>Font Tetap</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="274"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="283"/>
         <source>Font Size</source>
         <translation>Ukuran Huruf</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="335"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="344"/>
         <source>Hinting</source>
         <translation>Saran</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="348"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="357"/>
         <source>Anti-Aliasing</source>
         <translation>Anti-Aliasing</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="363"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="372"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="374"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="383"/>
         <source>Desktop Icons Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="282"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="382"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="291"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="391"/>
         <location filename="../src/qml/Dock/Main.qml" line="95"/>
         <source>Small</source>
         <translation>Kecil</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="286"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="386"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="295"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="395"/>
         <location filename="../src/qml/Dock/Main.qml" line="99"/>
         <source>Medium</source>
         <translation>Sedang</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="290"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="390"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="299"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="399"/>
         <location filename="../src/qml/Dock/Main.qml" line="103"/>
         <source>Large</source>
         <translation>Besar</translation>
     </message>
     <message>
-        <location filename="../src/qml/Appearance/Main.qml" line="294"/>
-        <location filename="../src/qml/Appearance/Main.qml" line="394"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="303"/>
+        <location filename="../src/qml/Appearance/Main.qml" line="403"/>
         <location filename="../src/qml/Dock/Main.qml" line="107"/>
         <source>Huge</source>
         <translation>Sangat Besar</translation>
@@ -1575,11 +1575,6 @@
         <location filename="../src/qml/main.qml" line="30"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
-    </message>
-    <message>
-        <location filename="../src/qml/main.qml" line="62"/>
-        <source>Search...</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
