@@ -64,15 +64,15 @@ ItemPage {
                 RowLayout {
                     spacing: LingmoUI.Units.largeSpacing * 2
 
-                    IconCheckBox {
-                        source: "qrc:/images/light_mode.svg"
+                    IconCheckBoxTheme {
+                        source: "qrc:/images/light_mode.png"
                         text: qsTr("Light")
                         checked: !LingmoUI.Theme.darkMode
                         onClicked: appearance.switchDarkMode(false)
                     }
 
-                    IconCheckBox {
-                        source: "qrc:/images/dark_mode.svg"
+                    IconCheckBoxTheme {
+                        source: "qrc:/images/dark_mode.png"
                         text: qsTr("Dark")
                         checked: LingmoUI.Theme.darkMode
                         onClicked: appearance.switchDarkMode(true)
