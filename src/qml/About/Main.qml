@@ -206,7 +206,7 @@ ItemPage {
                         color: "transparent"
                         InfoItem {
                             key: qsTr("Debian Version")
-                            value: qsTr("13 Trixie")
+                            value: qsTr("12 Bookworm")
                         }
                     }
                     Rectangle {
